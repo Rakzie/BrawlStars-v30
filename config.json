@@ -16,5 +16,5 @@
   "SecondsTillMaintenanceOver": 3600,
   "Patch": false,
   "PatchURL": "http://192.168.0.103:8080/",
-  "UpdateURL": ""
+  "UpdateURL": "mongodb://Rakzie:<password>@cluster0-shard-00-00.axrvn.mongodb.net:27017,cluster0-shard-00-01.axrvn.mongodb.net:27017,cluster0-shard-00-02.axrvn.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-rhljiu-shard-0&authSource=admin&retryWrites=true&w=majority"
 }
